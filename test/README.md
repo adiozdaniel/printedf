@@ -11,3 +11,7 @@
 **NOTE:** -Wno-format suppresses printf ```unknown conversion type character``` error while testing
 
 * To run this file, use: ```./printf```
+
+## CHECKER
+
+Checks for explicitly check for any of the ```printf``` family functions ```fprintf```, ```dprintf```, ```sprintf```, ```snprintf```, ```vprintf```, ```vfprintf```, ```vdprintf```, ```vsprintf```, ```vsnprintf``` to double check they are not used in the project.
