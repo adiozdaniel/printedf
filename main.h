@@ -7,7 +7,7 @@
 #include <string.h>
 
 char _putchar(char c);
-int _printf(const char *str, ...);
+int _printf(const char *format, ...);
 void print_str(char *str);
 void print_int(int n, int base);
 void print_unsigned_hex(unsigned int n, int _case);
