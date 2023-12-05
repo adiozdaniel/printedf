@@ -16,4 +16,4 @@ void print_unsigned_int(unsigned int n);
 void reverseString(char *str);
 void print_address(unsigned long n);
 
-#endif/*A compined effort from Felix & Adioz*/
+#endif/*A compined effort from Winer...*/
